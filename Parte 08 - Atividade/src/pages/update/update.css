@@ -1,0 +1,15 @@
+.humano-update input{
+    background: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+    color: dimgray;
+}
+
+.humano-update label{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
