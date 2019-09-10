@@ -1,3 +1,3 @@
-Pessoal, lembrem que estas pastas n„o est„o com o node_modules.
-Portanto, ao abrir o projeto no Visual Studio Code, vocÍs devem ir no terminal e digital: npm install
-Assim, as extensıes ser„o instaladas e a pasta node_modules ir„ aparecer.
+Pessoal, lembrem que estas pastas n√£o est√£o com o node_modules.
+Portanto, ao abrir o projeto no Visual Studio Code, voc√™s devem ir no terminal e digitar: npm install
+Assim, as extens√µes ser√£o instaladas e a pasta node_modules ir√£ aparecer.
