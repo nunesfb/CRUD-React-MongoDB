@@ -29,7 +29,7 @@ class DeletarUsuario extends Component {
         } else {
             return (
                 <fieldset>
-                    <legend>Criar Usuário</legend>
+                    <legend>Deletar Usuário</legend>
                     <div className="usuario-delete">
                         <label htmlFor="nome">Nome </label>
                         <h5>{this.state.usuario.nome}</h5>
