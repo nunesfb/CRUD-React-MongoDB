@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Curso de NodeJS com Mongoose
+  Curso Básico de ReactJS e MongoDB - CRUD
 </h1>
 
 <p align="justify">Estes códigos pertencem à playlist do canal do YouTube TecEdu4All. </p> 
